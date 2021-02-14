@@ -1,0 +1,137 @@
+{
+  "Lang": {
+    "l": "English"
+  },
+  "package" : {
+    "l" : "Packages"
+  },
+  "Patient" : {
+    "l" : "Patient"
+  },
+  "setting-file" :{
+    "l" : "设置文件"
+  },
+  "Welcome-to": {
+    "l": "欢迎来到"
+  },
+  "Backend-panel": {
+    "l": "后端面板"
+  },
+  "Register": {
+    "l": "寄存器"
+  },
+  "Login": {
+    "l": "登录"
+  },
+  "Phone-num": {
+    "l": "电话号码 *"
+  },
+  "Verify" : {
+    "l" : "验证码"
+  },
+  "NewPass" : {
+    "l" : "新密码"
+  },
+  "NewPassWrite" : {
+    "l" : "输入新密码"
+  },
+  "RNewPasses" : {
+    "l" : "重复新密码*"
+  },
+  "Name" : {
+    "l" : "Your name"
+  },
+  "Uname" : {
+    "l" : "Enter your name ..."
+  },
+  "Save" : {
+    "l" : "保存"
+  },
+  "RNewPass" : {
+    "l" : "输入重复您的新密码"
+  },
+  "U-phone-num": {
+    "l": "你的电话号码 ..."
+  },
+  "must-field": {
+    "l": "该字段必须填写"
+  },
+  "check": {
+    "l": "检查一下"
+  },
+  "select-type": {
+    "l": "选择类型"
+  },
+  "Doctor": {
+    "l": "医生"
+  },
+  "RePass": {
+    "l": "忘记密码"
+  },
+  "Forget": {
+    "l": "忘记密码 ?"
+  },
+  "Reset" : {
+    "l" : "重设密码 !  "
+  },
+  "User": {
+    "l": "用户"
+  },
+  "UserName": {
+    "l": "用户名"
+  },
+  "Password": {
+    "l": "密码"
+  },
+  "UUserName": {
+    "l": "输入你的用户名 ..."
+  },
+  "UPassword": {
+    "l": "输入密码"
+  },
+  "SignIn": {
+    "l": "登入"
+  },
+  "phoneNumber" : {
+    "l" : "Phone Number"
+  },
+  "SignUp" : {
+    "l" : "SignUp"
+  },
+  "Dashboard": {
+    "l": "仪表板"
+  },
+  "Users": {
+    "l": "用户"
+  },
+  "Doctors": {
+    "l": "医生"
+  },
+  "Consulting": {
+    "l": "咨询服务"
+  },
+  "Questions": {
+    "l": "问题"
+  },
+  "Ticket": {
+    "l": "票"
+  },
+  "Message": {
+    "l": "信息"
+  },
+  "Report": {
+    "l": "报告"
+  },
+  "Admin": {
+    "l": "管理员"
+  },
+  "Factor": {
+    "l": "因子"
+  },
+  "Logout": {
+    "l": "登出"
+  },
+  "AllUsers": {
+    "l": "全部用户"
+  }
+}

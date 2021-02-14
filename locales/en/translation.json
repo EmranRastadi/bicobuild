@@ -1,0 +1,150 @@
+{
+  "Lang" : {
+    "l" : "英语"
+  },
+  "package" : {
+    "l" : "packages"
+  },
+  "Patient" : {
+    "l" : "Patient"
+  },
+  "setting-file" :{
+    "l" : "setting file"
+  },
+  "Welcome-to" : {
+    "l" : "Welcome to"
+  },
+  "Backend-panel" : {
+    "l" : "Backend Panel"
+  },
+  "Register" : {
+    "l" : "Register"
+  },
+  "Login" : {
+    "l" : "Login"
+  },
+  "Phone-num" : {
+    "l" : "Phone Number *"
+  },
+  "phoneNumber" : {
+    "l" : "Phone Number"
+  },
+  "U-phone-num" : {
+    "l" : "Your Phone Number ..."
+  },
+  "ass-description": {
+    "l" : "Your description"
+  },
+  "U-ass-description": {
+    "l" : "Enter Your description ..."
+  },
+  "must-field" : {
+    "l" : "this field must be filled"
+  },
+  "check" : {
+    "l" : "Check"
+  },
+  "select-type" : {
+    "l" : "Select Type"
+  },
+  "Doctor" : {
+    "l" : "Doctor"
+  },
+  "RePass" : {
+    "l" : "Forgot password"
+  },
+  "User" : {
+    "l" : "User"
+  },
+  "UserName" : {
+    "l" : "Username"
+  },
+  "Forget" : {
+    "l" : "Forget Your Password ?"
+  },
+  "Reset" : {
+    "l" :  "Reset Password!"
+  },
+  "Verify" : {
+    "l" : "Verify Code"
+  },
+  "Password" : {
+    "l" : "Password"
+  },
+  "URegPassword" : {
+    "l" : "Enter your password ..."
+  },
+  "UUserName" : {
+    "l" : "Enter Your Username ..."
+  },
+
+  "NewPass" : {
+    "l" : "new password *"
+  },
+  "NewPassWrite" : {
+    "l" : "Enter your new password ..."
+  },
+  "RNewPass" : {
+    "l" : "Enter repeate your new password..."
+  },
+  "RNewPasses" : {
+    "l" : "repeate new password *"
+  },
+  "UserRegData" : {
+    "l" : "Your Detail"
+  },
+  "Save" : {
+    "l" : "save"
+  },
+  "UPassword" : {
+    "l" : "Enter Your Password ..."
+  },
+  "SignIn" : {
+    "l" : "SignIn"
+  },
+  "SignUp" : {
+    "l" : "SignUp"
+  },
+  "Dashboard": {
+    "l": "Dashboard"
+  },
+  "Users": {
+    "l": "Users"
+  },
+  "Doctors": {
+    "l": "Doctors"
+  },
+  "Name" : {
+    "l" : "Your name"
+  },
+  "Uname" : {
+    "l" : "Enter your name ..."
+  },
+  "Consulting": {
+    "l": "Consulting"
+  },
+  "Questions": {
+    "l": "Questions"
+  },
+  "Ticket": {
+    "l": "Ticket"
+  },
+  "Message": {
+    "l": "Message"
+  },
+  "Report": {
+    "l": "Report"
+  },
+  "Admin": {
+    "l": "Admin"
+  },
+  "Factor": {
+    "l": "Factor"
+  },
+  "Logout": {
+    "l": "Logout"
+  },
+  "AllUsers": {
+    "l": "all users"
+  }
+}
